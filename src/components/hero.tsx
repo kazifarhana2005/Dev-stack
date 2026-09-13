@@ -8,7 +8,7 @@ export default function Hero() {
         
         <div className="space-y-6">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight text-slate-900 leading-tight">
-                Build Your Ideal <br />
+                 Build Your Ideal <br />
             <span className="brand-gradient-text">Development Stack</span>
           </h1>
           
