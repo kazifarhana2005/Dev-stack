@@ -46,7 +46,7 @@ export default function Techcard({ onAdd }: TechcardProps) {
               onClick={() => onAdd(tech)}
               className="w-full bg-slate-900 hover:bg-slate-800 text-white font-medium py-2.5 rounded-xl transition text-sm shadow-sm cursor-pointer"
             >
-                Add to Stack
+                 Add to Stack
             </button>
           </div>
         </div>
