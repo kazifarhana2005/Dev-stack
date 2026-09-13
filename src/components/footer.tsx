@@ -12,7 +12,7 @@ export default function Footer() {
               DS
             </div>
             <span className="font-bold text-lg bg-linear-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent">
-              Dev Stack
+                  Dev Stack
             </span>
           </div>
           <p className="text-sm text-slate-500 leading-relaxed mb-6 max-w-sm">
